@@ -1,1 +1,1 @@
-My first readme
+This is my ALX pre-course repository!
